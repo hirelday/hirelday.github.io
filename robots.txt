@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hirelday.github.io/sitemap
+Sitemap: https://hirelday.github.io/app/sitemap
+Sitemap: https://hirelday.github.io/assets/sitemap
+Sitemap: https://hirelday.github.io/css/sitemap
+Sitemap: https://hirelday.github.io/includes/sitemap
+Sitemap: https://hirelday.github.io/item/sitemap
+Sitemap: https://hirelday.github.io/src/sitemap
